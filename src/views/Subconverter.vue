@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "自用专属后端": "https://subapi.zyxn.dpdns.org",// 为您的后端取名
+          "自用专属后端": "http://subapi.zyxn.dpdns.org:25500",// 为您的后端取名
         },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
